@@ -1,0 +1,1 @@
+using signals & slots to pass info between threads instead of buffers

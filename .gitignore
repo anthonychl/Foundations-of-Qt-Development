@@ -1,0 +1,6 @@
+*.pdf
+*.exe
+build*/
+Chapter12/**/build*/
+Chapter13/**/build*/
+Chapter14/

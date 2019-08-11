@@ -1,0 +1,5 @@
+using buffers
+
+thread5 no printea qDebug
+
+thread5alfa OK

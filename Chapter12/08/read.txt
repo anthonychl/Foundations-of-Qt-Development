@@ -1,0 +1,2 @@
+using signals & slots to pass info between threads instead of buffers
+using custom type TextAndNumber via QMetaType

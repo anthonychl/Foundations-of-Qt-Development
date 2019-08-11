@@ -1,0 +1,6 @@
+using signals & slots to pass info between threads instead of buffers
+using custom type TextAndNumber via QMetaType
+using a Dialog instead of qDebug()
+
+thread9 tiene bateo con reset y close
+
